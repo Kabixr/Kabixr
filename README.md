@@ -1,15 +1,3 @@
-<!-- =========================
-      KABIR PURI — GITHUB PROFILE
-      COMPLETE README (ALL SECTIONS)
-========================= -->
-
-<!-- 🔥 Banner -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1527443224154-d61f8c0906b9?auto=format&fit=crop&w=1600&q=80" 
-       width="100%" 
-       alt="Kabir Puri Banner"/>
-</p>
-
 <h1 align="center">✨ Kabir Puri ✨</h1>
 <h3 align="center">Data Analytics • AI/ML Engineering • Intelligent Systems Developer</h3>
 
