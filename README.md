@@ -20,8 +20,7 @@ My philosophy:
 
 ---
 
-# 🏆 Professional Experience (Subtle Flex, Just Facts)
-
+# 🏆 Professional Experience
 ### 🏥 **Medanta – The Medicity | Customer Success & Analytics Intern**  
 _mar 2025 – oct 2025_  
 - Increased digital adoption by **~20%**  
