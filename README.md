@@ -39,7 +39,7 @@ _mar 2025 – oct 2025_
 
 ---
 
-### 🖥️ **J.P. Morgan Chase & Co. | Software Engineering Intern (2021)**  
+### 🖥️ **Brookfield Properties | Application Developer Intern (2021)**  
 - Engineered enterprise database (10k+ records) → **40% faster retrieval**  
 - Optimized SQL/JDBC queries **5s → <1s**  
 - Reduced IT support tickets **~30%** via training & workflow upgrades  
