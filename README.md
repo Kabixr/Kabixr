@@ -139,7 +139,8 @@ Photography · Fitness · Music Production · Data Experiments · Creative Tech 
 ---
 
 # 📄 Resume  
-**[📄 Download My Resume](https://raw.githubusercontent.com/Kabixr/Kabixr/main/resume.pdf)**
+**[📄 Download My Resume](https://raw.githubusercontent.com/Kabixr/Kabir-Puri-Aka-Me/main/Resume.pdf)**
+
  
 
 ---
